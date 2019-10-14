@@ -1,5 +1,4 @@
-# GloveDict-1.0
-GloveDict-1.0
+# GloveDict-1.0 (Stanford)
 
 Jar file required : gloveDict-1.0-stanford.jar
 
